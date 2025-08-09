@@ -100,7 +100,8 @@ Certain outlet types consistently achieve higher ratings, indicating superior se
 Seasonal spikes observed in specific product categories.
 
 # 📷 Dashboard Preview
-(Insert screenshots or GIF of your dashboard here for GitHub display)
+![Blinkit Power BI Dashboard Preview](.assets/dashboard.png)
+
 
 # 📌 Future Improvements
 Integration with live sales data via DirectQuery.
