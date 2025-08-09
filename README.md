@@ -103,6 +103,10 @@ Seasonal spikes observed in specific product categories.
 ###  BlinkIT Dashboard Overview
 ![Dashboard](assets/dashboard.png)
 
+### 📽️ Dashboard Walkthrough
+
+ Dashboard Video [(https://www.youtube.com/watch?v=273tjmxCMV4)](https://youtu.be/273tjmxCMV4?si=d0oN-JDo1k3FXV_J)
+
 
 # 📌 Future Improvements
 Integration with live sales data via DirectQuery.
