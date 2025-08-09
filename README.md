@@ -13,7 +13,7 @@ Track outlet growth by type and location.
 Support decision-making with real-time, interactive data insights.
 
 # 📊 Key Features in the Dashboard
-KPIs (Key Performance Indicators)
+## KPIs (Key Performance Indicators)
 
 Total Sales
 
